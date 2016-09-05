@@ -10,7 +10,7 @@ GPA: 3.844/4, English: 3.87, French: 3.68
 
 #### <center> Experience </center>
 **Active Endeavors**, Iowa City, IA  
-_Assistant Manager_, May 2016-Present
+_Assistant Manager, Keyholder_, May 2016-Present
 - Promoted after 3 weeks to receive and order items;
 chosen for manager position over staffers with more experience in the company
 - Managed 3 to 6 team members by creating tasks and goals for each member to complete daily    
@@ -35,7 +35,7 @@ _Corps Member_, June 2012-July 2014
 - Selected from approximately 50,00 applicants nationwide to join national teacher corps committed to teaching in under-resourced urban and rural schools  
 - Participated in intensive summer training program to develop skills
 while simultaneously teaching summer school in Chicago under the supervision of an experienced teacher  
-- Engaged in professional development activities and classes specific to my licensing area at the University of Michigan throughout teaching contract  
+- Engaged in professional development activities and classes specific to my licensing area at the University of Michigan throughout teaching contract 
 - Founding member of LGBTQ committee focused on equipping TFA teachers to improve the outcomes of their LGBTQ identified students  
 
  ___   

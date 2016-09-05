@@ -1,9 +1,9 @@
 #### 1. Find the month in 2015 where the State of Washington had the largest number of storm events. How many days of storm-free weather occurred in that month?  
 
- ### Answer  
+### Answer  
  In Washington the month of December 2015 had the most storm events, with 140 events taking place.  In total there were 8 days of storm free weather in the month of December.
 
- ### Process  
+### Process  
   - Use Find and Replace in Begining_yearmonth column, replace 2015 with “ “ and sort data by this column
   - Filter to view only the state of Washington
   - Filter to view only January
@@ -11,12 +11,12 @@
   - Sort by Beginning day, find days not mentioned in beginning day or end day
 
 | Month | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |  
- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |  
 | Event | 109 | 19 | 4| 5 | 31 | 25 | 24 | 44 | 17 | 13 | 58 | 140 |  
 
   Days without storm weather: 14, 25, 26, 27, 28, 29, 30, 31
 
-  ### Notes
+### Notes
   - Could have sorted data using month tab instead of removing 2015.  
   - Could have used filter to record days without storm weather instead of scrolling through data.
   - Repeating for every month was cumbersome.  Could use a macro and expression else/if to count and sum?  

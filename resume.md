@@ -6,7 +6,7 @@
 **University of Wisconsin**, Madison, WI   
 _Bachelor of Arts in English and French_, September 2010-May2012  
 GPA: 3.844/4, English: 3.87, French: 3.68  
-___
+ ___  
 
 #### <center> Experience </center>
 **Active Endeavors**, Iowa City, IA  
@@ -37,9 +37,9 @@ _Corps Member_, June 2012-July 2014
 while simultaneously teaching summer school in Chicago under the supervision of an experienced teacher  
 - Engaged in professional development activities and classes specific to my licensing area at the University of Michigan throughout teaching contract  
 - Founding member of LGBTQ committee focused on equipping TFA teachers to improve the outcomes of their LGBTQ identified students  
-___  
+ ___   
 
 #### <center> Interests </center>
-I speak and write French and Spanish and I enjoy reading in these languages as well as English.
-I am interested in rock climbing, yoga, and traveling as a means to understand other cultural perspectives.
-I am passionate about issues concerning education, equality and environmental conservation.
+I speak and write French and Spanish and I enjoy reading in these languages as well as English. 
+I am passionate about issues concerning education, equality and environmental conservation. 
+I am interested in rock climbing, yoga, and traveling as a means to understand other cultural perspectives. 

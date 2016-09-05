@@ -23,10 +23,10 @@
 
 #### 2\. How many storms impacting trees happened between 8PM EST and 8AM EST in 2000?  
 
- ### Answer  
+### Answer  
  There were a total of 2920 storms impacting trees occurring between the hours of 8PM and 8AM EST during the year 2000.  
 
- ### Process
+### Process
  - Filter Begin_Time using greater than or less than, realize this does not account for time zones,
  - Run macro to change military times to AM/PM  
 
@@ -51,20 +51,20 @@
  - Use =SUBTOTAL (2,range) to count the number of storms
 
 | Zone | EST & AST | CST | HST | MST | PST | SST |
- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
- | # Events | 1444 | 1232 | 15 | 100 | 122 | 7 |  
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| # Events | 1444 | 1232 | 15 | 100 | 122 | 7 |  
 
- ### Notes  
+### Notes  
  - Did not need to run macro, could have used 24 hour clock to get the same results (still learned what a macro was and it is neat).  
  - Could have run a macro using if/else to change time zones and output all times in EST?  Found equation =MOD(time + hours/24),1 but was unsure of how to combine this with if/else in macro.
  - Did not go through the End time data to see if any event began before 8PM but continued after 8 PM, assumed that this was not to be included as it did not fall completely within range.  
 
 #### 3\. In which year (2000 or 2015) did storms have a higher monetary impact within the boundaries of the 13 original colonies?  
 
- ### Answer  
+### Answer  
  In the year 2000 there was a higher monetary impact caused by storms within the boundaries of the 13 original colonies than in the year 2015.  
 
- ### Process  
+### Process  
  - Filter to see only states that were within the boundaries of the 13 original colonies (Georgia, South Carolina, North Carolina, Virginia, Maryland, Delaware, New Jersey, Pennsylvania, New York, Connecticut, Rhode Island, Massachusetts, New Hampshire, Maine (included in the Massachusetts colony))  
  - Filter Damage to property using contains “k”  
  - In a new column apply formula =SUBSTITUTE(Z1, “K”, “ “)+0  
@@ -79,7 +79,7 @@
 | Property M | 355,390,000 | 189,800,000 |
 | Total | 676,841,660 | 285,401,700 |
 
- ### Notes  
+### Notes  
  - Did not account for the part of Maine whose ownership was disputed by the British.
  - Could have used a formula to turn numberK and numberM into 1000 and 1000000 numbers respectively?
  - Could sometimes copy down formula by double clicking cross in the corner, sometimes this did not work.  Need to identify why.

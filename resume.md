@@ -37,6 +37,7 @@ _Corps Member_, June 2012-July 2014
 while simultaneously teaching summer school in Chicago under the supervision of an experienced teacher  
 - Engaged in professional development activities and classes specific to my licensing area at the University of Michigan throughout teaching contract  
 - Founding member of LGBTQ committee focused on equipping TFA teachers to improve the outcomes of their LGBTQ identified students  
+
  ___   
 
 #### <center> Interests </center>

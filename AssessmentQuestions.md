@@ -2,6 +2,10 @@
 
 ### Answer  
  In Washington the month of December 2015 had the most storm events, with 140 events taking place.  In total there were 8 days of storm free weather in the month of December.
+ 
+### Assumptions
+ - If I look at only Washington and then count each month individually, I will find the month with the most storm events.  
+ - If I then look at days where no storms began or ended I will know how many storm free days were in that month.
 
 ### Process  
   - Use Find and Replace in Begining_yearmonth column, replace 2015 with “ “ and sort data by this column
@@ -25,6 +29,11 @@
 
 ### Answer  
  There were a total of 2920 storms impacting trees occurring between the hours of 8PM and 8AM EST during the year 2000.  
+ 
+### Assumptions
+ - The time will be easier to work with in AM/PM style (untrue).
+ - If I filter using contians I will find all results that involve trees.  
+ - If I then filter by time zone and account for the distance from that time zone to EST I will find all storms that occured during the correct time window.  
 
 ### Process
  - Filter Begin_Time using greater than or less than, realize this does not account for time zones,
@@ -63,6 +72,10 @@
 
 ### Answer  
  In the year 2000 there was a higher monetary impact caused by storms within the boundaries of the 13 original colonies than in the year 2015.  
+
+### Assumptions
+ - They mean loosely all of the boundries and do not expect me to find the cities on either side of the river boundries in Maine that seperated the British side from the Mass. colony.  
+ - If I filter to see only the states inculded in the colonies, and then use the damage columns, I can total the ammount spent in each year.
 
 ### Process  
  - Filter to see only states that were within the boundaries of the 13 original colonies (Georgia, South Carolina, North Carolina, Virginia, Maryland, Delaware, New Jersey, Pennsylvania, New York, Connecticut, Rhode Island, Massachusetts, New Hampshire, Maine (included in the Massachusetts colony))  

@@ -24,6 +24,8 @@
   - Could have sorted data using month tab instead of removing 2015.  
   - Could have used filter to record days without storm weather instead of scrolling through data.
   - Repeating for every month was cumbersome.  Could use a macro and expression else/if to count and sum?  
+ 
+____  
 
 #### 2\. How many storms impacting trees happened between 8PM EST and 8AM EST in 2000?  
 
@@ -67,6 +69,8 @@
  - Did not need to run macro, could have used 24 hour clock to get the same results (still learned what a macro was and it is neat).  
  - Could have run a macro using if/else to change time zones and output all times in EST?  Found equation =MOD(time + hours/24),1 but was unsure of how to combine this with if/else in macro.
  - Did not go through the End time data to see if any event began before 8PM but continued after 8 PM, assumed that this was not to be included as it did not fall completely within range.  
+
+____ 
 
 #### 3\. In which year (2000 or 2015) did storms have a higher monetary impact within the boundaries of the 13 original colonies?  
 

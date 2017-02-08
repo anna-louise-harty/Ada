@@ -11,32 +11,32 @@ GPA: 3.844/4, English: 3.87, French: 3.68
 #### <center> Experience </center>
 **Active Endeavors**, Iowa City, IA  
 _Assistant Manager, Keyholder_, May 2016-Present
-- Promoted after 3 weeks to receive and order items;
-chosen for manager position over staffers with more experience in the company
-- Managed 3 to 6 team members by creating tasks and goals for each member to complete daily    
+- Trained new employees on general company policies and procedures as well as specific products, monitored new employees and made placement recommendations
+- Managed a team of 4 to 8 individuals effectively by creating individual and team goals daily, monitored progress towards big sales goals daily 
+- Doubled sales on assigned floor from previous year due to independent research on store products to better anticipate and answer customers’ questions   
 
 **Duoc Universidad Católica**, Santiago, Chile  
  _Professor of English as a Second Language_, March 2015-December 2015  
  - Built meaningful relationships with first generation college students using self-taught Spanish
- - Modified curriculum to include cultural, historical and current events;
-collaborated with native Chilean teachers to create content related games
+ - Modified curriculum to include cultural, historical and current events; collaborated with native Chilean teachers to create content related games
 
 **Murphy Performance Academy**, Detroit, MI  
 _7th and 8th Grade Language Arts Teacher_, August 2012-July 2014
 - Awarded Outstanding First Year Teacher out of 60 qualified individuals  
-- Recognized as one of five teachers with most student gains on Charter district test,
-students grew an average of 1.8 years  
-- Created curriculum based on Common Core State Standards using project based and student centered approaches as per school model  
-- Documented student achievement data on assignments and tests,
-used data to drive decision making and empower students  
+- Recognized as one of five teachers with most student gains on Charter district test, students grew an average of 1.8 years  
+- Designed curriculum for 7th and 8th grade ELA classes taking into account student goals, state and common core standards, and student levels
+- Tracked student achievement data weekly and used it to make data based decisions and empower students to take ownership over their learning
+
 
 **Teach for America**, Detroit, MI  
 _Corps Member_, June 2012-July 2014
 - Selected from approximately 50,00 applicants nationwide to join national teacher corps committed to teaching in under-resourced urban and rural schools  
-- Participated in intensive summer training program to develop skills
-while simultaneously teaching summer school in Chicago under the supervision of an experienced teacher  
+- Participated in intensive summer training program to develop skills while simultaneously teaching summer school in Chicago under the supervision of an experienced teacher  
 - Engaged in professional development activities and classes specific to my licensing area at the University of Michigan throughout teaching contract 
-- Founding member of LGBTQ committee focused on equipping TFA teachers to improve the outcomes of their LGBTQ identified students  
+- Developed LGBTQUIA+ program to educate TFA teachers of the resources available for their LGBTQUIA+ students, many of whom experience additional barriers to their success
+    - Planned events with new recruits to program including coordinating transportation and activities
+    - Networked with local agencies to provide materials and professional developments for teachers during TFA meetings
+ 
 
  ___   
 

@@ -32,7 +32,7 @@ _7th and 8th Grade Language Arts Teacher_, August 2012-July 2014
 _Corps Member_, June 2012-July 2014
 - Selected from approximately 50,00 applicants nationwide to join national teacher corps committed to teaching in under-resourced urban and rural schools  
 - Participated in intensive summer training program to develop skills while simultaneously teaching summer school in Chicago under the supervision of an experienced teacher  
-- Engaged in professional development activities and classes specific to my licensing area at the University of Michigan throughout teaching contract 
+- Engaged in professional development activities and classes specific to my licensing area at the University of Michigan throughout teaching contract
 - Developed LGBTQUIA+ program to educate TFA teachers of the resources available for their LGBTQUIA+ students, many of whom experience additional barriers to their success
     - Planned events with new recruits to program including coordinating transportation and activities
     - Networked with local agencies to provide materials and professional developments for teachers during TFA meetings

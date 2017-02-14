@@ -1,14 +1,14 @@
-###  <center> **Anna Harty** </center>
-<center> **319.541.6805, anna.louise.harty@gmail.com**</center>
+### **Anna Harty** 
+**319.541.6805, anna.louise.harty@gmail.com** 
  ___  
 
-#### <center> Education </center>
+#### Education 
 **University of Wisconsin**, Madison, WI   
 _Bachelor of Arts in English and French_, September 2010-May2012  
 GPA: 3.844/4, English: 3.87, French: 3.68  
  ___  
 
-#### <center> Experience </center>
+#### Experience 
 **Active Endeavors**, Iowa City, IA  
 _Assistant Manager, Keyholder_, May 2016-Present
 - Trained new employees on general company policies and procedures as well as specific products, monitored new employees and made placement recommendations
@@ -40,7 +40,7 @@ _Corps Member_, June 2012-July 2014
 
  ___   
 
-#### <center> Interests </center>
+#### Interests 
 I speak and write French and Spanish and I enjoy reading in these languages as well as English. 
 I am passionate about issues concerning education, equality and environmental conservation. 
 I am interested in rock climbing, yoga, and traveling as a means to understand other cultural perspectives. 
